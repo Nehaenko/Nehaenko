@@ -26,4 +26,4 @@ I love building apps that are:
 
 🌱 I’m currently learning react more and really enjoying it!
 
-📫 How to reach me: https://www.linkedin.com/in/alla-nekhaienko-9b5a251b5/?skipRedirect=true
+📫 How to reach me: www.linkedin.com/in/alla-nekhaienko
