@@ -13,17 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Alla — Frontend Developer (Magento 2, Vue.js, React)
+👋 Hi, I’m Alla — Senior Frontend Developer
 
-I’m a UK-based Frontend Developer working at Gene Commerce Ltd, specialising in Magento 2, modern JavaScript frameworks, and e-commerce user experiences.
-I use GitHub to build practical, real-world projects that help me grow my skills in Vue, React, TypeScript, testing, and app architecture.
+I’m a UK-based Senior Frontend Developer with 8 years of commercial experience building e-commerce and web applications.
 
-I love building apps that are:
-✨ Clean
-✨ Functional
-✨ User-friendly
-✨ and visually organised
+My background is strongest in Magento 2 / Adobe Commerce, Hyvä, JavaScript, Vue.js and frontend delivery, with hands-on experience across React, TypeScript, REST, GraphQL, checkout, payment flows, testing, technical planning and mentoring.
 
-🌱 I’m currently learning react more and really enjoying it!
+I use GitHub to explore and build practical projects with React, TypeScript, Next.js, Git, CI/CD and application architecture.
 
-📫 How to reach me: www.linkedin.com/in/alla-nekhaienko
+I enjoy building software that is:
+
+✨ Clear  
+✨ Functional  
+✨ Maintainable  
+✨ User-focused
+
+🌱 Currently expanding my React, TypeScript and Next.js experience through hands-on project work.
+
+📫 Connect with me on LinkedIn: www.linkedin.com/in/alla-nekhaienko
